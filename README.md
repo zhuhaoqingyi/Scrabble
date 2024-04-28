@@ -1,4 +1,4 @@
 # Scrabble
-Scrabble game made by javaFX.
+It's Scrabble game made by javaFX.
 The jdk version is at least 17.
-click the bat to run.
+Click the bat to run.
